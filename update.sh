@@ -1,9 +1,3 @@
-cd backend
-git pull
-cd ../frontend
-git pull
-cd ../hardware
-git pull
-cd ..
+git submodule foreach git pull origin master
 git commit -am "update submodules"
 git push
