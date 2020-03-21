@@ -4,3 +4,6 @@
 [submodule "hardware"]
 	path = hardware
 	url = https://github.com/jna380/WirVsVirus_SortierterEinkauf_Hardware
+[submodule "backend"]
+	path = backend
+	url = https://github.com/wiepke/WirVsVirus-Warenbestand.git
