@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:derpierre65/WirVsVirus-SortierterEinkauf-Frontend.git
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/jna380/WirVsVirus_SortierterEinkauf_Hardware
