@@ -30,7 +30,7 @@ The following project parts are contained in the prototype:
 
 **Software-Frontend**
 
-The backend repository can be found at https://github.com/derpierre65/WirVsVirus-SortierterEinkauf-Frontend
+The frontend repository can be found at https://github.com/derpierre65/WirVsVirus-SortierterEinkauf-Frontend
 
 **Software-Backend**
 
