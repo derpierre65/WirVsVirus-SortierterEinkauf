@@ -41,3 +41,9 @@ The backend repository can be found at https://github.com/engelant/WirVsVirus-So
 The proposed hardware IoT-devices are ESP-32 with LoRaWan connectivity.
 To count the number of smartphones nearby via Bluetooth and Wifi sniffing, ESP Paxcounter (https://github.com/cyberman54/ESP32-Paxcounter) is used in it's default configuration. The devices are initialized with keys to communicate to The Things Network (https://www.thethingsnetwork.org/) via LoRaWan.
 
+**Additional Information**
+
+If you are looking for additional information for this project please refer to https://devpost.com/software/sortierteseinkaufen.
+
+Teamwork from: Axel Wiepke, Adam Siw, Jens Neureither, Daniel Demmer, Julian, Moritz, Florian, Ivan, Leon, Louis, Martin Münickel, Pierre Wüst, Andreas Bäuml
+
