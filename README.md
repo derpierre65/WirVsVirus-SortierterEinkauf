@@ -43,7 +43,7 @@ To count the number of smartphones nearby via Bluetooth and Wifi sniffing, ESP P
 
 **Additional Information**
 
-If you are looking for additional information for this project please refer to https://devpost.com/software/sortierteseinkaufen.
+If you are looking for additional information for this project please refer to https://devpost.com/software/sortierteseinkaufen and https://sortierteseinkaufen.de/.
 
 Teamwork from: Axel Wiepke, Adam Siwy, Jens Neureither, Daniel Demmer, Julian, Moritz, Florian, Ivan, Leon, Louis, Martin Münickel, Pierre Wüst, Andreas Bäuml
 
